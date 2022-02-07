@@ -2,7 +2,7 @@
     <Shell id="shell">
         <App id="app">
             <pages>
-                <Page id="page" title="New ">
+                <Page id="page" title="New aaa">
                     <content>
                         <List noDataText="Drop list items here" id="list0" items="{/C_BPUsrAcademicTitleVH}">
                             <items>
